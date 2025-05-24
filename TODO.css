@@ -1,0 +1,13 @@
+
+*{
+    background-color: bisque
+}
+div{
+    background-color: black;
+    height: 100%;
+    width: 350px;
+}
+input{
+    height: 50px;
+    width: 200px;
+}
